@@ -1,0 +1,28 @@
+main{
+    background-image: url(nLQFG.jpg) ;
+  background-blend-mode: overlay;
+  background-attachment: fixed;
+ 
+}
+.bord{
+    box-sizing:border-box;
+    background-color: rgba(40, 40, 70, 0.7);
+}
+
+
+.ti{
+
+    text-align: center;
+}
+
+h1{
+
+    font-weight: lighter;
+}
+
+h6{
+
+
+    font-weight: lighter;
+}
+
